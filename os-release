@@ -1,0 +1,11 @@
+NAME="Ubos"
+VERSION="2.0 ciwaru"
+ID=Ubos
+ID_LIKE=ubuntu
+PRETTY_NAME="Ubos 2.0 ciwaru"
+VERSION_ID="2.0"
+HOME_URL=""
+SUPPORT_URL=""
+BUG_REPORT_URL="telegram @klis_serang"
+VERSION_CODENAME=ciwaru
+UBUNTU_CODENAME=ciwaru
